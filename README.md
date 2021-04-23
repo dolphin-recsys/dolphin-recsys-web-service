@@ -1,2 +1,2 @@
-# recsys-web-service
-web service for recommendation system
+# dolphin-recsys-web-service
+web backend service for dolphin recommendation system
